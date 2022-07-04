@@ -12,9 +12,14 @@ h2{
     color: orange;
 
 }
-.flexable-container{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
+    margin-top: 100px;
+
+}
+.dream-big{
+    display: flex;
 }
 .half-width{
     width: 50%;
@@ -36,6 +41,7 @@ h2{
 
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    display: flex;
 }
 .passion{
     background-image: url(images/dream-bg.png);
@@ -43,6 +49,7 @@ h2{
     background-position: right;
 }
 .experience-area{
+    display: flex;
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
